@@ -1,1 +1,6 @@
-![My profile image](https://tim-wheat.vercel.app/assets/img/about-perfil.jpg)
+```
+$ pwd
+home/Downloads/projects
+$ cd .
+$
+```
